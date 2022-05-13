@@ -1,8 +1,10 @@
+<html>
 <style>
     table {
         width: 100%;
     }
 </style>
+</html>
 
 ## Welcome to GitHub Pages
 
