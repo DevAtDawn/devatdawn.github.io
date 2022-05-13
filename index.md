@@ -1,10 +1,6 @@
-<html>
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-</html>
+.markdown-body {
+  max-width: 100%;
+}
 
 ## Welcome to GitHub Pages
 
