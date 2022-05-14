@@ -3,6 +3,25 @@
 }
  */
 
+ /* <style> */
+html,
+body {
+  color: #f5d67b;
+  /* color: white; */
+}
+h1 {
+  color: #fc9463;
+}
+h3 {
+  color: #72e0d1;
+}
+body {
+  background-color:  #201c29;
+  /* background-color: black; */
+}
+/* </style> */
+
+/* 
  html,
  body {
    background-image: none !important;
@@ -111,7 +130,7 @@
    color: rgba(139, 233, 253, 1) !important;
  }
  
- 
+  */
 
 /* 
 main {
