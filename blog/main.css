@@ -3,22 +3,53 @@
 }
  */
 
+ html,
+ body {
+   color: #f5d67b;
+   /* color: white; */
+ }
+ h1 {
+   color: #f64a3b;
+ }
+ h2 {
+   color: #f7b93f;
+ }
+ h3 {
+   color: #b7b937;
+ }
+ h4 {
+   color: #8fbf7f;
+ }
+ h5 {
+   color:  #d2879b;
+ }
+ h6 {
+   color:   #82a598;
+ }
+
+ body {
+   background-color:  #282828;
+   /* background-color: black; */
+ }
+
+
+
  /* <style> */
-html,
-body {
-  color: #f5d67b;
+/* html, */
+/* body { */
+  /* color: #f5d67b; */
   /* color: white; */
-}
-h1 {
-  color: #fc9463;
-}
-h3 {
-  color: #72e0d1;
-}
-body {
-  background-color:  #201c29;
+/* } */
+/* h1 { */
+  /* color: #fc9463; */
+/* } */
+/* h3 { */
+  /* color: #72e0d1; */
+/* } */
+/* body { */
+  /* background-color:  #201c29; */
   /* background-color: black; */
-}
+/* } */
 /* </style> */
 
 /* 
